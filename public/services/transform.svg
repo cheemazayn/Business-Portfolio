@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" fill="none"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#26262a"/><stop offset="1" stop-color="#09090a"/></linearGradient>
+<linearGradient id="sv" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#8d8d93"/></linearGradient>
+<radialGradient id="gl" cx=".5" cy=".42" r=".6"><stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<pattern id="gr" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".05"/></pattern></defs>
+<rect width="600" height="760" fill="url(#bg)"/><rect width="600" height="760" fill="url(#gr)"/><ellipse cx="300" cy="330" rx="300" ry="300" fill="url(#gl)"/>
+<g transform="rotate(-8 190 330)" opacity=".55"><rect x="60" y="230" width="210" height="170" rx="6" fill="#3a3a3d" stroke="#888"/><rect x="72" y="244" width="186" height="14" fill="#777"/><rect x="72" y="268" width="90" height="60" fill="#555"/><rect x="170" y="268" width="88" height="10" fill="#666"/><rect x="170" y="286" width="88" height="10" fill="#666"/><rect x="72" y="338" width="186" height="48" fill="#4a4a4d"/></g>
+<path d="M285 330h50M318 312l20 18-20 18" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="rotate(5 420 330)"><rect x="330" y="190" width="220" height="280" rx="22" fill="#0e0e10" stroke="#fff" stroke-opacity=".7"/>
+<rect x="350" y="214" width="120" height="16" rx="8" fill="url(#sv)"/><rect x="350" y="246" width="170" height="8" rx="4" fill="#fff" opacity=".3"/><rect x="350" y="266" width="140" height="8" rx="4" fill="#fff" opacity=".2"/><rect x="350" y="296" width="76" height="28" rx="14" fill="#fff"/>
+<rect x="350" y="346" width="78" height="96" rx="12" fill="#fff" opacity=".1"/><rect x="442" y="346" width="78" height="96" rx="12" fill="#fff" opacity=".1"/></g>
+<g fill="#fff"><path d="M470 150l6 14 14 6-14 6-6 14-6-14-14-6 14-6z"/><path d="M110 520l4 9 9 4-9 4-4 9-4-9-9-4 9-4z" opacity=".7"/></g></svg>

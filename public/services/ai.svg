@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" fill="none"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#26262a"/><stop offset="1" stop-color="#09090a"/></linearGradient>
+<linearGradient id="sv" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#8d8d93"/></linearGradient>
+<radialGradient id="gl" cx=".5" cy=".42" r=".6"><stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+<pattern id="gr" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".05"/></pattern></defs>
+<rect width="600" height="760" fill="url(#bg)"/><rect width="600" height="760" fill="url(#gr)"/><ellipse cx="300" cy="330" rx="300" ry="300" fill="url(#gl)"/>
+<g stroke="#fff" stroke-opacity=".35"><rect x="80" y="150" width="270" height="86" rx="24" fill="#18181b"/><rect x="250" y="520" width="270" height="86" rx="24" fill="#18181b"/></g>
+<rect x="104" y="180" width="170" height="10" rx="5" fill="#fff" opacity=".6"/><rect x="104" y="202" width="120" height="10" rx="5" fill="#fff" opacity=".3"/><rect x="274" y="550" width="190" height="10" rx="5" fill="#fff" opacity=".6"/><rect x="274" y="572" width="130" height="10" rx="5" fill="#fff" opacity=".3"/>
+<circle cx="300" cy="380" r="110" fill="url(#sv)" opacity=".15"/><circle cx="300" cy="380" r="86" stroke="#fff" stroke-opacity=".5"/><circle cx="300" cy="380" r="62" fill="#0d0d0f" stroke="#fff" stroke-opacity=".7"/>
+<path d="M300 330l13 31 31 13-31 13-13 31-13-31-31-13 31-13z" fill="#fff"/>
+<ellipse cx="300" cy="380" rx="190" ry="48" stroke="#fff" stroke-opacity=".4" transform="rotate(-20 300 380)"/><circle cx="445" cy="333" r="8" fill="#fff"/></svg>
